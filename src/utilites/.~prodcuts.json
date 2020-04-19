@@ -1,0 +1,252 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "brandname": "Jersy",
+      "productname": " Jersy Sweet Curd",
+      "quantity": "200g",
+      "price": 50,
+      "mrp": 50,
+      "imageurl": "https://images-na.ssl-images-amazon.com/images/I/61vOGGT03dL._SL1102_.jpg",
+      "offertext": "No offer"
+    },
+    {
+      "id": 2,
+      "brandname": "Jersy",
+      "productname": "Jersy Sweet flvoured Lassi",
+      "quantity": "100ml",
+      "price": 20,
+      "mrp": 25,
+      "imageurl": "https://5.imimg.com/data5/OB/DJ/PX/SELLER-7393613/godrej-jersey-sweet-lassi-500x500.png",
+      "offertext": "20% OFF"
+    },
+    {
+      "id": 3,
+      "brandname": "Fortune",
+      "productname": "Zero Cholostrl Refined Oil",
+      "quantity": "1L",
+      "price": 90,
+      "mrp": 100,
+      "imageurl": "https://ml0co0iaphua.i.optimole.com/JAgwYyw-Jgh5tARF/w:1000/h:1000/q:auto/https://gharstuff.com/wp-content/uploads/2019/06/Fortune-Sunlite-Refined-Sunflower-Oil-1l.jpg",
+      "offertext": "10% OFF"
+    },
+    {
+      "id": 4,
+      "brandname": "Unibic",
+      "productname": "Smootly Baked Dry Fruit coockies",
+      "quantity": "75g",
+      "price": 25,
+      "mrp": 25,
+      "imageurl": "https://5.imimg.com/data5/AY/OK/KA/SELLER-82456434/unibic-fruit-and-nut-cookies-500x500.jpg",
+      "offertext": "No offer"
+    },
+    {
+      "id": 5,
+      "brandname": "Cadbury Dairy Milk",
+      "productname": "Cadbury Bubly & slik Chocolate",
+      "quantity": 200,
+      "price": 120,
+      "mrp": "100g",
+      "imageurl": "https://5.imimg.com/data5/WL/BR/MY-39546977/cadbury-dairy-milk-silk-bubbly-chocolate-bar-2c-120-gm-500x500.jpeg",
+      "offertext": "40% OFF"
+    },
+    {
+      "id": 6
+    },
+    {
+      "id": 7
+    },
+    {
+      "id": 8
+    },
+    {
+      "id": 9
+    },
+    {
+      "id": 10
+    },
+    {
+      "id": 11
+    },
+    {
+      "id": 12
+    },
+    {
+      "id": 13
+    },
+    {
+      "id": 14
+    },
+    {
+      "id": 15
+    },
+    {
+      "id": 16
+    },
+    {
+      "id": 17
+    },
+    {
+      "id": 18
+    },
+    {
+      "id": 19
+    },
+    {
+      "id": 20
+    },
+    {
+      "id": 21
+    },
+    {
+      "id": 22
+    },
+    {
+      "id": 23
+    },
+    {
+      "id": 24
+    },
+    {
+      "id": 25
+    },
+    {
+      "id": 26
+    },
+    {
+      "id": 27
+    },
+    {
+      "id": 28
+    },
+    {
+      "id": 29
+    },
+    {
+      "id": 30
+    },
+    {
+      "id": 31
+    },
+    {
+      "id": 32
+    },
+    {
+      "id": 33
+    },
+    {
+      "id": 34
+    },
+    {
+      "id": 35
+    },
+    {
+      "id": 36
+    },
+    {
+      "id": 37
+    },
+    {
+      "id": 38
+    },
+    {
+      "id": 39
+    },
+    {
+      "id": 40
+    },
+    {
+      "id": 41
+    },
+    {
+      "id": 42
+    },
+    {
+      "id": 43
+    },
+    {
+      "id": 44
+    },
+    {
+      "id": 45
+    },
+    {
+      "id": 46
+    },
+    {
+      "id": 47
+    },
+    {
+      "id": 48
+    },
+    {
+      "id": 49
+    },
+    {
+      "id": 50
+    },
+    {
+      "id": 51
+    },
+    {
+      "id": 52
+    },
+    {
+      "id": 53
+    },
+    {
+      "id": 54
+    },
+    {
+      "id": 55
+    },
+    {
+      "id": 56
+    },
+    {
+      "id": 57
+    },
+    {
+      "id": 58
+    },
+    {
+      "id": 59
+    },
+    {
+      "id": 60
+    },
+    {
+      "id": 61
+    },
+    {
+      "id": 62
+    },
+    {
+      "id": 63
+    },
+    {
+      "id": 64
+    },
+    {
+      "id": 65
+    },
+    {
+      "id": 66
+    },
+    {
+      "id": 67
+    },
+    {
+      "id": 68
+    },
+    {
+      "id": 69
+    },
+    {
+      "id": 70
+    },
+    {
+      "id": 71
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+.cart-part{
+    display: flex;
+    width: 400px;
+    height: 75px;
+    margin: 0 auto;
+    
+}
+
+.quantity-prod{
+    margin-right: 20px;
+}
+.checkout{
+    width: 300px;
+    position: relative;
+}
+.details{
+    width: 100px;
+}
+
+@media only screen and (min-width: 320px) and (max-width: 768px) {
+    .details{
+        margin-left: 20px;
+    }
+}
